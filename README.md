@@ -12,3 +12,6 @@ This program allows the connection and monitoring of a smart ventilation system 
 1. **Ubidots for ESP32**
    - [UbidotsEsp32Mqtt](https://github.com/ubidots/esp32-mqtt)
    - A library for connecting the ESP32 to Ubidots using MQTT.
+1. **PubSubClient**
+   - [PubSubClient](https://github.com/knolleary/pubsubclient)
+   - A library for communicating as a MQTT client
