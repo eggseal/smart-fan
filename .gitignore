@@ -1,0 +1,77 @@
+# Arduino IDE specific files
+*.bin
+*.elf
+*.hex
+*.o
+*.a
+*.d
+*.lst
+*.map
+*.pde
+*.pid
+*.dSYM/
+*.swp
+
+# Build directories
+/build/
+*/build/
+*/.pio/
+*.pio/
+*.vscode/
+.vscode/
+.idea/
+*.clang-format
+*.gdb_history
+
+# Sketch specific files
+*.ino~
+*.ino.d
+
+# Libraries
+/libraries/
+/*.a
+/.vscode/
+*.cache
+*.gdb
+*.json
+*.d.ts
+*.lock
+*.class
+*.tmp
+
+# PlatformIO specific files
+.pio/
+lib_deps/
+.pioenvs/
+.mbed/
+.mbedignore
+lib/
+test/
+lib/
+
+# User-specific files
+*.user
+*.sublime-workspace
+*.sublime-project
+*.pyc
+*.pyo
+__pycache__/
+
+# Arduino output files
+*.elf
+*.hex
+*.bin
+*.o
+*.d
+*.dep
+
+# Other temporary files
+*.log
+*.pid
+*.swp
+*.swo
+*.DS_Store
+
+# Backup files
+*~ 
+*#
